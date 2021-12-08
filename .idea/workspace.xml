@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac871476-5084-4d04-89a1-2d0097108ad6" name="Default Changelist" comment="ToTheThrone Landing Page" />
+    <list default="true" id="ac871476-5084-4d04-89a1-2d0097108ad6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +69,7 @@
       <workItem from="1636046562985" duration="563000" />
       <workItem from="1636047607501" duration="702000" />
       <workItem from="1638260216412" duration="17692000" />
-      <workItem from="1639002252938" duration="1011000" />
+      <workItem from="1639002252938" duration="1585000" />
     </task>
     <task id="LOCAL-00001" summary="ToTheThrone Landing Page">
       <created>1639002569998</created>
@@ -78,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639002569998</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ToTheThrone Landing Page">
+      <created>1639003297297</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639003297297</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,11 +104,11 @@
       <screen x="1680" y="23" width="1360" height="745" />
     </state>
     <state x="2091" y="226" key="#Notifications/0.23.1680.1027/1680.23.1360.745@1680.23.1360.745" timestamp="1638545793120" />
-    <state x="1943" y="23" width="825" height="768" key="CommitChangelistDialog2" timestamp="1639002853792">
+    <state x="1943" y="23" width="825" height="768" key="CommitChangelistDialog2" timestamp="1639003297184">
       <screen x="1680" y="23" width="1360" height="745" />
     </state>
     <state x="1943" y="0" width="825" height="768" key="CommitChangelistDialog2/0.0.1680.1050/1680.0.1360.768@1680.0.1360.768" timestamp="1639002569810" />
-    <state x="1943" y="23" key="CommitChangelistDialog2/0.23.1680.1027/1680.23.1360.745@1680.23.1360.745" timestamp="1639002853792" />
+    <state x="1943" y="23" key="CommitChangelistDialog2/0.23.1680.1027/1680.23.1360.745@1680.23.1360.745" timestamp="1639003297184" />
     <state x="1838" y="104" key="Github.CreatePullRequestDialog" timestamp="1639002362479">
       <screen x="1680" y="0" width="1360" height="768" />
     </state>
@@ -113,12 +120,12 @@
     <state x="1680" y="46" width="900" height="722" key="SettingsEditor/0.23.1680.1027/1680.23.1360.745@1680.23.1360.745" timestamp="1638546955453" />
     <state x="410" y="228" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1635280246489" />
     <state x="2012" y="46" key="SettingsEditor/1680.23.1360.745/0.23.1680.997@1680.23.1360.745" timestamp="1636047959782" />
-    <state x="1960" y="135" key="Vcs.Push.Dialog.v2" timestamp="1639003261285">
+    <state x="1960" y="135" key="Vcs.Push.Dialog.v2" timestamp="1639003759117">
       <screen x="1680" y="23" width="1360" height="745" />
     </state>
     <state x="1960" y="115" key="Vcs.Push.Dialog.v2/0.0.1680.1050/1680.0.1360.768@1680.0.1360.768" timestamp="1639002582342" />
     <state x="1960" y="115" key="Vcs.Push.Dialog.v2/0.23.1680.1027/1680.0.1360.768@1680.0.1360.768" timestamp="1639001639371" />
-    <state x="1960" y="135" key="Vcs.Push.Dialog.v2/0.23.1680.1027/1680.23.1360.745@1680.23.1360.745" timestamp="1639003261285" />
+    <state x="1960" y="135" key="Vcs.Push.Dialog.v2/0.23.1680.1027/1680.23.1360.745@1680.23.1360.745" timestamp="1639003759117" />
     <state x="2226" y="235" key="cloudConfig.SelfSettingsDialog" timestamp="1638261675884">
       <screen x="1680" y="0" width="1360" height="768" />
     </state>
@@ -132,6 +139,10 @@
     </state>
     <state x="2162" y="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050/1680.0.1360.768@1680.0.1360.768" timestamp="1639002609327" />
     <state x="2162" y="319" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1027/1680.23.1360.745@1680.23.1360.745" timestamp="1639003264803" />
+    <state x="2114" y="115" key="git4idea.branch.GitSmartOperationDialog" timestamp="1639003797725">
+      <screen x="1680" y="23" width="1360" height="745" />
+    </state>
+    <state x="2114" y="115" key="git4idea.branch.GitSmartOperationDialog/0.23.1680.1027/1680.23.1360.745@1680.23.1360.745" timestamp="1639003797725" />
     <state x="2176" y="283" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1639002440690">
       <screen x="1680" y="0" width="1360" height="768" />
     </state>
