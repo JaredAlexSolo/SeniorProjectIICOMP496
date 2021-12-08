@@ -1,0 +1,149 @@
+Index: .idea/aws.xml
+===================================================================
+--- .idea/aws.xml	(revision 6f5af3649275d0b62ce107af3064ee2258d927d5)
++++ .idea/aws.xml	(revision 6f5af3649275d0b62ce107af3064ee2258d927d5)
+@@ -1,11 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="accountSettings">
+-    <option name="activeRegion" value="us-east-1" />
+-    <option name="recentlyUsedRegions">
+-      <list>
+-        <option value="us-east-1" />
+-      </list>
+-    </option>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/modules.xml
+===================================================================
+--- .idea/modules.xml	(revision 6f5af3649275d0b62ce107af3064ee2258d927d5)
++++ .idea/modules.xml	(revision 6f5af3649275d0b62ce107af3064ee2258d927d5)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/../ToTheThrone/.idea/ToTheThrone.iml" filepath="$PROJECT_DIR$/../ToTheThrone/.idea/ToTheThrone.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/inspectionProfiles/Project_Default.xml
+===================================================================
+--- .idea/inspectionProfiles/Project_Default.xml	(revision 6f5af3649275d0b62ce107af3064ee2258d927d5)
++++ .idea/inspectionProfiles/Project_Default.xml	(revision 6f5af3649275d0b62ce107af3064ee2258d927d5)
+@@ -1,22 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <profile version="1.0">
+-    <option name="myName" value="Project Default" />
+-    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+-      <option name="myValues">
+-        <value>
+-          <list size="8">
+-            <item index="0" class="java.lang.String" itemvalue="nobr" />
+-            <item index="1" class="java.lang.String" itemvalue="noembed" />
+-            <item index="2" class="java.lang.String" itemvalue="comment" />
+-            <item index="3" class="java.lang.String" itemvalue="noscript" />
+-            <item index="4" class="java.lang.String" itemvalue="embed" />
+-            <item index="5" class="java.lang.String" itemvalue="script" />
+-            <item index="6" class="java.lang.String" itemvalue="style" />
+-            <item index="7" class="java.lang.String" itemvalue="center" />
+-          </list>
+-        </value>
+-      </option>
+-      <option name="myCustomValuesEnabled" value="true" />
+-    </inspection_tool>
+-  </profile>
+-</component>
+\ No newline at end of file
+Index: .idea/vcs.xml
+===================================================================
+--- .idea/vcs.xml	(revision 6f5af3649275d0b62ce107af3064ee2258d927d5)
++++ .idea/vcs.xml	(revision 6f5af3649275d0b62ce107af3064ee2258d927d5)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"ac871476-5084-4d04-89a1-2d0097108ad6\" name=\"Default Changelist\" comment=\"ToTheThrone Landing Page\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"HTML File\" />\n        <option value=\"CSS File\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1xvDbyye7ojuI5vlyZJXIBUmQ1e\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"ChangesTree.GroupingKeys\" value=\"directory\" />\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"list.type.of.created.stylesheet\" value=\"CSS\" />\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"vcs.Git\" />\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"SvnConfiguration\">\n    <configuration>$USER_HOME$/.subversion</configuration>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"ac871476-5084-4d04-89a1-2d0097108ad6\" name=\"Default Changelist\" comment=\"\" />\n      <created>1631226745900</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1631226745900</updated>\n      <workItem from=\"1631226747313\" duration=\"3486000\" />\n      <workItem from=\"1631377622176\" duration=\"1236000\" />\n      <workItem from=\"1631406282992\" duration=\"2397000\" />\n      <workItem from=\"1631821186707\" duration=\"19718000\" />\n      <workItem from=\"1632859901453\" duration=\"921000\" />\n      <workItem from=\"1633481610465\" duration=\"295000\" />\n      <workItem from=\"1634075371504\" duration=\"10847000\" />\n      <workItem from=\"1634158602356\" duration=\"7198000\" />\n      <workItem from=\"1634228612121\" duration=\"819000\" />\n      <workItem from=\"1634705692222\" duration=\"485000\" />\n      <workItem from=\"1634839123608\" duration=\"1855000\" />\n      <workItem from=\"1636046562985\" duration=\"563000\" />\n      <workItem from=\"1636047607501\" duration=\"702000\" />\n      <workItem from=\"1638260216412\" duration=\"17692000\" />\n      <workItem from=\"1639002252938\" duration=\"1011000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"ToTheThrone Landing Page\">\n      <created>1639002569998</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1639002569998</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"2\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"ToTheThrone Landing Page\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"ToTheThrone Landing Page\" />\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state x=\"1680\" y=\"23\" width=\"1360\" height=\"745\" key=\"#Custom_Plugin_Repositories\" timestamp=\"1636047821111\">\n      <screen x=\"1680\" y=\"23\" width=\"1360\" height=\"745\" />\n    </state>\n    <state x=\"1680\" y=\"23\" width=\"1360\" height=\"745\" key=\"#Custom_Plugin_Repositories/1680.23.1360.745/0.23.1680.997@1680.23.1360.745\" timestamp=\"1636047821111\" />\n    <state x=\"2091\" y=\"226\" key=\"#Notifications\" timestamp=\"1638545793120\">\n      <screen x=\"1680\" y=\"23\" width=\"1360\" height=\"745\" />\n    </state>\n    <state x=\"2091\" y=\"226\" key=\"#Notifications/0.23.1680.1027/1680.23.1360.745@1680.23.1360.745\" timestamp=\"1638545793120\" />\n    <state x=\"1943\" y=\"23\" width=\"825\" height=\"768\" key=\"CommitChangelistDialog2\" timestamp=\"1639002853792\">\n      <screen x=\"1680\" y=\"23\" width=\"1360\" height=\"745\" />\n    </state>\n    <state x=\"1943\" y=\"0\" width=\"825\" height=\"768\" key=\"CommitChangelistDialog2/0.0.1680.1050/1680.0.1360.768@1680.0.1360.768\" timestamp=\"1639002569810\" />\n    <state x=\"1943\" y=\"23\" key=\"CommitChangelistDialog2/0.23.1680.1027/1680.23.1360.745@1680.23.1360.745\" timestamp=\"1639002853792\" />\n    <state x=\"1838\" y=\"104\" key=\"Github.CreatePullRequestDialog\" timestamp=\"1639002362479\">\n      <screen x=\"1680\" y=\"0\" width=\"1360\" height=\"768\" />\n    </state>\n    <state x=\"1838\" y=\"104\" key=\"Github.CreatePullRequestDialog/0.23.1680.1027/1680.0.1360.768@1680.0.1360.768\" timestamp=\"1639002362479\" />\n    <state x=\"1680\" y=\"46\" width=\"900\" height=\"722\" key=\"SettingsEditor\" timestamp=\"1638546955453\">\n      <screen x=\"1680\" y=\"23\" width=\"1360\" height=\"745\" />\n    </state>\n    <state x=\"469\" y=\"239\" key=\"SettingsEditor/0.0.1920.1200@0.0.1920.1200\" timestamp=\"1631226813239\" />\n    <state x=\"1680\" y=\"46\" width=\"900\" height=\"722\" key=\"SettingsEditor/0.23.1680.1027/1680.23.1360.745@1680.23.1360.745\" timestamp=\"1638546955453\" />\n    <state x=\"410\" y=\"228\" key=\"SettingsEditor/0.23.1680.1027@0.23.1680.1027\" timestamp=\"1635280246489\" />\n    <state x=\"2012\" y=\"46\" key=\"SettingsEditor/1680.23.1360.745/0.23.1680.997@1680.23.1360.745\" timestamp=\"1636047959782\" />\n    <state x=\"1960\" y=\"135\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1639003261285\">\n      <screen x=\"1680\" y=\"23\" width=\"1360\" height=\"745\" />\n    </state>\n    <state x=\"1960\" y=\"115\" key=\"Vcs.Push.Dialog.v2/0.0.1680.1050/1680.0.1360.768@1680.0.1360.768\" timestamp=\"1639002582342\" />\n    <state x=\"1960\" y=\"115\" key=\"Vcs.Push.Dialog.v2/0.23.1680.1027/1680.0.1360.768@1680.0.1360.768\" timestamp=\"1639001639371\" />\n    <state x=\"1960\" y=\"135\" key=\"Vcs.Push.Dialog.v2/0.23.1680.1027/1680.23.1360.745@1680.23.1360.745\" timestamp=\"1639003261285\" />\n    <state x=\"2226\" y=\"235\" key=\"cloudConfig.SelfSettingsDialog\" timestamp=\"1638261675884\">\n      <screen x=\"1680\" y=\"0\" width=\"1360\" height=\"768\" />\n    </state>\n    <state x=\"2226\" y=\"235\" key=\"cloudConfig.SelfSettingsDialog/1680.0.1360.768/0.0.1680.1050@1680.0.1360.768\" timestamp=\"1638261675884\" />\n    <state x=\"1738\" y=\"0\" key=\"com.intellij.dvcs.ui.CompareBranchesDialog\" timestamp=\"1639002359697\">\n      <screen x=\"1680\" y=\"0\" width=\"1360\" height=\"768\" />\n    </state>\n    <state x=\"1738\" y=\"0\" key=\"com.intellij.dvcs.ui.CompareBranchesDialog/0.23.1680.1027/1680.0.1360.768@1680.0.1360.768\" timestamp=\"1639002359697\" />\n    <state x=\"2162\" y=\"319\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1639003264803\">\n      <screen x=\"1680\" y=\"23\" width=\"1360\" height=\"745\" />\n    </state>\n    <state x=\"2162\" y=\"305\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050/1680.0.1360.768@1680.0.1360.768\" timestamp=\"1639002609327\" />\n    <state x=\"2162\" y=\"319\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1027/1680.23.1360.745@1680.23.1360.745\" timestamp=\"1639003264803\" />\n    <state x=\"2176\" y=\"283\" key=\"git4idea.remote.GitConfigureRemotesDialog\" timestamp=\"1639002440690\">\n      <screen x=\"1680\" y=\"0\" width=\"1360\" height=\"768\" />\n    </state>\n    <state x=\"2176\" y=\"283\" key=\"git4idea.remote.GitConfigureRemotesDialog/0.0.1680.1050/1680.0.1360.768@1680.0.1360.768\" timestamp=\"1639002440690\" />\n    <state x=\"2176\" y=\"298\" key=\"git4idea.remote.GitConfigureRemotesDialog/0.23.1680.1027/1680.23.1360.745@1680.23.1360.745\" timestamp=\"1638546776561\" />\n    <state x=\"630\" y=\"435\" width=\"621\" height=\"271\" key=\"org.intellij.images.editor.actions.BackgroundImageDialog\" timestamp=\"1635280245160\">\n      <screen x=\"0\" y=\"23\" width=\"1680\" height=\"1027\" />\n    </state>\n    <state x=\"720\" y=\"481\" width=\"611\" height=\"269\" key=\"org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1200@0.0.1920.1200\" timestamp=\"1631226812146\" />\n    <state x=\"630\" y=\"435\" width=\"621\" height=\"271\" key=\"org.intellij.images.editor.actions.BackgroundImageDialog/0.23.1680.1027@0.23.1680.1027\" timestamp=\"1635280245160\" />\n    <state x=\"505\" y=\"242\" width=\"670\" height=\"641\" key=\"search.everywhere.popup\" timestamp=\"1634088792487\">\n      <screen x=\"0\" y=\"23\" width=\"1680\" height=\"993\" />\n    </state>\n    <state x=\"505\" y=\"233\" width=\"670\" height=\"676\" key=\"search.everywhere.popup/0.0.1680.1050@0.0.1680.1050\" timestamp=\"1631379491024\" />\n    <state x=\"505\" y=\"242\" width=\"670\" height=\"638\" key=\"search.everywhere.popup/0.23.1680.990@0.23.1680.990\" timestamp=\"1631821244557\" />\n    <state x=\"505\" y=\"242\" width=\"670\" height=\"640\" key=\"search.everywhere.popup/0.23.1680.992@0.23.1680.992\" timestamp=\"1634077176858\" />\n    <state x=\"505\" y=\"242\" width=\"670\" height=\"641\" key=\"search.everywhere.popup/0.23.1680.993@0.23.1680.993\" timestamp=\"1634088792487\" />\n    <state x=\"505\" y=\"242\" width=\"670\" height=\"642\" key=\"search.everywhere.popup/0.23.1680.994@0.23.1680.994\" timestamp=\"1632423672999\" />\n    <state x=\"505\" y=\"244\" width=\"670\" height=\"642\" key=\"search.everywhere.popup/0.23.1680.997@0.23.1680.997\" timestamp=\"1631649148299\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 6f5af3649275d0b62ce107af3064ee2258d927d5)
++++ .idea/workspace.xml	(date 1639003600821)
+@@ -4,7 +4,13 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="ac871476-5084-4d04-89a1-2d0097108ad6" name="Default Changelist" comment="ToTheThrone Landing Page" />
++    <list default="true" id="ac871476-5084-4d04-89a1-2d0097108ad6" name="Default Changelist" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -69,7 +75,7 @@
+       <workItem from="1636046562985" duration="563000" />
+       <workItem from="1636047607501" duration="702000" />
+       <workItem from="1638260216412" duration="17692000" />
+-      <workItem from="1639002252938" duration="1011000" />
++      <workItem from="1639002252938" duration="1347000" />
+     </task>
+     <task id="LOCAL-00001" summary="ToTheThrone Landing Page">
+       <created>1639002569998</created>
+@@ -78,7 +84,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1639002569998</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="ToTheThrone Landing Page">
++      <created>1639003297297</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1639003297297</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -97,11 +110,11 @@
+       <screen x="1680" y="23" width="1360" height="745" />
+     </state>
+     <state x="2091" y="226" key="#Notifications/0.23.1680.1027/1680.23.1360.745@1680.23.1360.745" timestamp="1638545793120" />
+-    <state x="1943" y="23" width="825" height="768" key="CommitChangelistDialog2" timestamp="1639002853792">
++    <state x="1943" y="23" width="825" height="768" key="CommitChangelistDialog2" timestamp="1639003297184">
+       <screen x="1680" y="23" width="1360" height="745" />
+     </state>
+     <state x="1943" y="0" width="825" height="768" key="CommitChangelistDialog2/0.0.1680.1050/1680.0.1360.768@1680.0.1360.768" timestamp="1639002569810" />
+-    <state x="1943" y="23" key="CommitChangelistDialog2/0.23.1680.1027/1680.23.1360.745@1680.23.1360.745" timestamp="1639002853792" />
++    <state x="1943" y="23" key="CommitChangelistDialog2/0.23.1680.1027/1680.23.1360.745@1680.23.1360.745" timestamp="1639003297184" />
+     <state x="1838" y="104" key="Github.CreatePullRequestDialog" timestamp="1639002362479">
+       <screen x="1680" y="0" width="1360" height="768" />
+     </state>
+@@ -113,12 +126,12 @@
+     <state x="1680" y="46" width="900" height="722" key="SettingsEditor/0.23.1680.1027/1680.23.1360.745@1680.23.1360.745" timestamp="1638546955453" />
+     <state x="410" y="228" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1635280246489" />
+     <state x="2012" y="46" key="SettingsEditor/1680.23.1360.745/0.23.1680.997@1680.23.1360.745" timestamp="1636047959782" />
+-    <state x="1960" y="135" key="Vcs.Push.Dialog.v2" timestamp="1639003261285">
++    <state x="1960" y="135" key="Vcs.Push.Dialog.v2" timestamp="1639003312697">
+       <screen x="1680" y="23" width="1360" height="745" />
+     </state>
+     <state x="1960" y="115" key="Vcs.Push.Dialog.v2/0.0.1680.1050/1680.0.1360.768@1680.0.1360.768" timestamp="1639002582342" />
+     <state x="1960" y="115" key="Vcs.Push.Dialog.v2/0.23.1680.1027/1680.0.1360.768@1680.0.1360.768" timestamp="1639001639371" />
+-    <state x="1960" y="135" key="Vcs.Push.Dialog.v2/0.23.1680.1027/1680.23.1360.745@1680.23.1360.745" timestamp="1639003261285" />
++    <state x="1960" y="135" key="Vcs.Push.Dialog.v2/0.23.1680.1027/1680.23.1360.745@1680.23.1360.745" timestamp="1639003312697" />
+     <state x="2226" y="235" key="cloudConfig.SelfSettingsDialog" timestamp="1638261675884">
+       <screen x="1680" y="0" width="1360" height="768" />
+     </state>
